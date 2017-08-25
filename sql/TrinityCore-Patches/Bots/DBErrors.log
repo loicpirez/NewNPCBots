@@ -1,0 +1,31 @@
+The spell 34453 (rank: 1, first: 34453) listed in `spell_ranks` already has ChainEntry from dbc.
+The spell 34454 (rank: 2, first: 34453) listed in `spell_ranks` already has ChainEntry from dbc.
+ScriptName 'npc_Airen_qI' exists in database, but no core script found!
+The spell 34453 (rank: 1, first: 34453) listed in `spell_ranks` already has ChainEntry from dbc.
+The spell 34454 (rank: 2, first: 34453) listed in `spell_ranks` already has ChainEntry from dbc.
+Item (Entry: 100000) does not exist in item.dbc! (not correct id?).
+Missing base stats for creature class 1 level 255
+Table `creature` has creature (GUID: 1118308) with non existing creature entry 908001, skipped.
+`pool_gameobject` has a not lootable gameobject spawn (GUID: 72037, type: 5) defined for pool id (4106), skipped.
+`pool_gameobject` has a not lootable gameobject spawn (GUID: 72043, type: 5) defined for pool id (4107), skipped.
+`pool_gameobject` has a not lootable gameobject spawn (GUID: 72058, type: 5) defined for pool id (4109), skipped.
+`pool_gameobject` has a not lootable gameobject spawn (GUID: 73361, type: 5) defined for pool id (4326), skipped.
+ScriptName 'npc_teleport' exists in database, but no core script found!
+ScriptName 'npc_vote_rewarder' exists in database, but no core script found!
+ScriptName 'npc_lottery' exists in database, but no core script found!
+ScriptName 'npc_enchantment' exists in database, but no core script found!
+ScriptName 'npc_buff' exists in database, but no core script found!
+ScriptName 'npc_Airen_qI' exists in database, but no core script found!
+ScriptName 'levelnpc' exists in database, but no core script found!
+ScriptName 'guildmaster' exists in database, but no core script found!
+ScriptName 'npc_all' exists in database, but no core script found!
+ScriptName 'duel_systems' exists in database, but no core script found!
+ScriptName 'duel_records_system' exists in database, but no core script found!
+ScriptName 'npc_blood_money' exists in database, but no core script found!
+ScriptName 'professionnpc' exists in database, but no core script found!
+ScriptName 'summon' exists in database, but no core script found!
+ScriptName 'Npc_Beastmaster' exists in database, but no core script found!
+ScriptName 'NPC_TransmogDisplayVendor' exists in database, but no core script found!
+ScriptName 'BountyHunter' exists in database, but no core script found!
+SmartAIMgr::LoadSmartAIFromDB: GameObject entry (188596) is not using SmartGameObjectAI, skipped loading.
+SmartAIMgr::LoadSmartAIFromDB: GameObject entry (188596) is not using SmartGameObjectAI, skipped loading.

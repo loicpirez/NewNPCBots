@@ -1,0 +1,17 @@
+TrinityCore rev. unknown 1970-01-01 00:00:00 +0000 (Archived branch) (Unix, Release, Static) (authserver)
+<Ctrl-C> to stop.
+
+Using configuration file /wow/server/etc/authserver.conf.
+Using SSL version: OpenSSL 1.0.2k  26 Jan 2017 (library: OpenSSL 1.0.1t  3 May 2016)
+Using Boost version: 1.62.0
+Automatic database updates are disabled for all databases!
+Opening DatabasePool 'auth'. Asynchronous connections: 1, synchronous connections: 1.
+MySQL client library: 10.1.22-MariaDB
+MySQL server ver: 5.7.17-1 
+Connected to MySQL database at 127.0.0.1
+MySQL client library: 10.1.22-MariaDB
+MySQL server ver: 5.7.17-1 
+Connected to MySQL database at 127.0.0.1
+DatabasePool 'auth' opened successfully. 2 total connections running.
+Started auth database connection pool.
+Added realm "Trinity" at 127.0.0.1:8085.

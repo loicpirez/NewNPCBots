@@ -1,0 +1,34 @@
+In mysql_stmt_prepare() id: 469, sql: "UPDATE characters_npcbot SET owner = ? WHERE entry = ?"
+Table 'characters.characters_npcbot' doesn't exist
+In mysql_stmt_prepare() id: 470, sql: "UPDATE characters_npcbot SET owner = ? WHERE owner = ?"
+Table 'characters.characters_npcbot' doesn't exist
+In mysql_stmt_prepare() id: 472, sql: "UPDATE characters_npcbot SET roles = ? WHERE entry = ?"
+Table 'characters.characters_npcbot' doesn't exist
+In mysql_stmt_prepare() id: 475, sql: "UPDATE characters_npcbot SET equipMhEx = ?, equipOhEx = ?, equipRhEx = ?, equipHead = ?, equipShoulders = ?, equipChest = ?, equipWaist = ?, equipLegs = ?, equipFeet = ?, equipWrist = ?, equipHands = ?, equipBack = ?, equipBody = ?, equipFinger1 = ?, equipFinger2 = ?, equipTrinket1 = ?, equipTrinket2 = ?, equipNeck = ? WHERE entry = ?"
+Table 'characters.characters_npcbot' doesn't exist
+In mysql_stmt_prepare() id: 476, sql: "DELETE FROM characters_npcbot WHERE entry = ?"
+Table 'characters.characters_npcbot' doesn't exist
+Could not connect to MySQL database at 127.0.0.1: Access denied for user 'trinity'@'localhost' (using password: YES)
+In mysql_stmt_prepare() id: 469, sql: "UPDATE characters_npcbot SET owner = ? WHERE entry = ?"
+Table 'characters.characters_npcbot' doesn't exist
+In mysql_stmt_prepare() id: 470, sql: "UPDATE characters_npcbot SET owner = ? WHERE owner = ?"
+Table 'characters.characters_npcbot' doesn't exist
+In mysql_stmt_prepare() id: 472, sql: "UPDATE characters_npcbot SET roles = ? WHERE entry = ?"
+Table 'characters.characters_npcbot' doesn't exist
+In mysql_stmt_prepare() id: 475, sql: "UPDATE characters_npcbot SET equipMhEx = ?, equipOhEx = ?, equipRhEx = ?, equipHead = ?, equipShoulders = ?, equipChest = ?, equipWaist = ?, equipLegs = ?, equipFeet = ?, equipWrist = ?, equipHands = ?, equipBack = ?, equipBody = ?, equipFinger1 = ?, equipFinger2 = ?, equipTrinket1 = ?, equipTrinket2 = ?, equipNeck = ? WHERE entry = ?"
+Table 'characters.characters_npcbot' doesn't exist
+In mysql_stmt_prepare() id: 476, sql: "DELETE FROM characters_npcbot WHERE entry = ?"
+Table 'characters.characters_npcbot' doesn't exist
+In mysql_stmt_prepare() id: 469, sql: "UPDATE characters_npcbot SET owner = ? WHERE entry = ?"
+Table 'characters.characters_npcbot' doesn't exist
+In mysql_stmt_prepare() id: 470, sql: "UPDATE characters_npcbot SET owner = ? WHERE owner = ?"
+Table 'characters.characters_npcbot' doesn't exist
+In mysql_stmt_prepare() id: 472, sql: "UPDATE characters_npcbot SET roles = ? WHERE entry = ?"
+Table 'characters.characters_npcbot' doesn't exist
+In mysql_stmt_prepare() id: 475, sql: "UPDATE characters_npcbot SET equipMhEx = ?, equipOhEx = ?, equipRhEx = ?, equipHead = ?, equipShoulders = ?, equipChest = ?, equipWaist = ?, equipLegs = ?, equipFeet = ?, equipWrist = ?, equipHands = ?, equipBack = ?, equipBody = ?, equipFinger1 = ?, equipFinger2 = ?, equipTrinket1 = ?, equipTrinket2 = ?, equipNeck = ? WHERE entry = ?"
+Table 'characters.characters_npcbot' doesn't exist
+In mysql_stmt_prepare() id: 476, sql: "DELETE FROM characters_npcbot WHERE entry = ?"
+Table 'characters.characters_npcbot' doesn't exist
+The spell 34453 (rank: 1, first: 34453) listed in `spell_ranks` already has ChainEntry from dbc.
+The spell 34454 (rank: 2, first: 34453) listed in `spell_ranks` already has ChainEntry from dbc.
+ScriptName 'npc_Airen_qI' exists in database, but no core script found!
