@@ -50,7 +50,7 @@ target_link_libraries(worldserver
     scripts
     game
     gsoap
-    readline)
+    readline dl ssl crypto)
 
 CollectIncludeDirectories(
   ${CMAKE_CURRENT_SOURCE_DIR}

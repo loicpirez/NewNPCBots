@@ -43,7 +43,7 @@ endif()
 
 target_link_libraries(authserver
   PUBLIC
-    shared)
+    shared dl ssl crypto)
 
 CollectIncludeDirectories(
   ${CMAKE_CURRENT_SOURCE_DIR}
